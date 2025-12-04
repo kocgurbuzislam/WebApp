@@ -1,0 +1,5 @@
+{
+  "name": "Milyoner Yarışması (AI)",
+  "description": "Google Gemini destekli, 'Kim Milyoner Olmak İster?' tarzı interaktif yarışma uygulaması. Kendi konunuzu seçin ve yapay zeka soruları hazırlasın.",
+  "requestFramePermissions": []
+}
